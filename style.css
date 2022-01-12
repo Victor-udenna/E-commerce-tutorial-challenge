@@ -212,9 +212,13 @@ nav a{
     border-radius: 15px;
 }
 
+
+.img-1{
+    border-radius: 30px;
+}
 .product-preview, .img-1{
     padding: 10px;
-    border-radius: 20px;
+    
 }
 
 main{
